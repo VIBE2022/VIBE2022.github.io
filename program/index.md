@@ -10,7 +10,7 @@ layout: program
 
 
 ## Schedule
-![schedule](/assets/images/VIBE2022_schedule_v2.png?raw=true "Schedule")
-
+![schedule](/assets/images/VIBE2022_schedule_p1.png?raw=true "Schedule")
+![schedule](/assets/images/VIBE2022_schedule_p2.png?raw=true "Schedule")
 
 
