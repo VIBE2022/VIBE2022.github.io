@@ -26,13 +26,13 @@ exclude:
 # Collections and their defaults
 collections:
   talks:
-    output: true
+    output: false
     permalink: /:collection/:title/
   speakers:
-    output: true
+    output: false
     permalink: /:collection/:title/
   rooms:
-    output: true
+    output: false
     permalink: /:collection/:title/
 
 defaults:
@@ -123,7 +123,7 @@ conference:
     timezone: GMT
     stop:       240  # in minutes
     streaming:
-      enable: true
+      enable: false
       pause:     60  # in minutes
       prepend:    5  # in minutes
       extend:     5  # in minutes
