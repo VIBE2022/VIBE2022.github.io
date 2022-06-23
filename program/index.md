@@ -10,7 +10,7 @@ layout: program
 
 
 ## Schedule
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQRKs0qloSEIjHlM4vLyo6jlFpKyERQLHRn8UZARHXgIYfJiOYN65TZDoYw3M-K1Q/pub?embedded=true"></iframe>
+<iframe src='https://docs.google.com/document/d/e/2PACX-1vQRKs0qloSEIjHlM4vLyo6jlFpKyERQLHRn8UZARHXgIYfJiOYN65TZDoYw3M-K1Q/pub?embedded=true'></iframe>
 
 
 
