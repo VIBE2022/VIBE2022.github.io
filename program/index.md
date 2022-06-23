@@ -10,7 +10,8 @@ layout: program
 
 
 ## Schedule
-<object data="../assets/VIBE2022_schedule_v2.docx.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../assets/images/VIBE2022_schedule_v2.png" width="1000" height="1000" type='application/pdf'></object>
+
 
 
 
