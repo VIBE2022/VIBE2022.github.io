@@ -13,7 +13,8 @@ layout: location
 
 Note if you are walking, or coming by public transport. The bus will stop outside the students union. To get to the school of medicine, walk through campus over the living bridge (across the river)
 
-![walking](/assests/images/walking.png)
+![walking](/assets/images/walking.png?raw=true "Walking Map")
+
 
 ## Accommodation
 The World Masters Ultimate Frisbee Championships will be in UL from 25 June-2 July so unless you are playing or watching Frisbee, on-campus accommodation is reserved.  
