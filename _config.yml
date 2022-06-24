@@ -135,15 +135,15 @@ conference:
   map:
     # Initial map center point
     home_coord: 52.67846, -8.56815
-   # map_provider:  "Esri.WorldTopoMap"
+    map_provider:  "Esri.WorldTopoMap"
     
     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
     #   - Hydda.Full
     #   - Thunderforest.Neighbourhood
     #   - Esri.WorldTopoMap
-      map_provider: "OpenStreetMap.Mapnik"
-      default_zoom: 19
+   #   map_provider: "OpenStreetMap.Mapnik"
+   #   default_zoom: 19
 
 
 
