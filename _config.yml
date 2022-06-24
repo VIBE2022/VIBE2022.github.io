@@ -151,12 +151,13 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: lighning
-        color: info
-      - name: 10_mintalk
-        color: success
       - name: keynote
-        color: warning
+        color: info 
+      - name: 10_mintalk
+        color: warning 
+      - name: lighning
+        color: success
+
 #      - name: workshop
 #        color: dark
 
@@ -179,10 +180,10 @@ conference:
 
   program:
     # URL of program page
-  #  url: '/program'
+    url: '/program'
 
     # Time steps in program table
-   # time_steps: 15 # in minutes
+    time_steps: 15 # in minutes
 
     # Show intermediary time steps (next to full hours)
-   # show_alltimes: false
+    show_alltimes: false
